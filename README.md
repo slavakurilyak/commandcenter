@@ -8,4 +8,4 @@ Apps promise to give us superpowers. Browser plug-ins, add-ons, or extensions pr
 
 ## Contribute
 
-Want to build the future of managed open source? Contribute to Daploy on Github or email Slava at [hello@slavakurilyak.com](mailto:hello@slavakurilyak.com?subject=CommandCenter)
+Want to build the future of managed open source? Contribute to CommandCenter on Github or email Slava at [hello@slavakurilyak.com](mailto:hello@slavakurilyak.com?subject=CommandCenter)
